@@ -20,9 +20,9 @@
 
 ## 4. Steli Efti
 - **Platform:** YouTube
-- **Link:** https://youtube.com/@close
+- **Link:** https://youtube.com/@closecrm
 - **Why chosen:** CEO of Close CRM; prolific on email nurture and outreach
-- **Content collected:** TBD
+- **Content collected:** 1 Youtube transcript collected
 
 ## 5. Wes Kao
 - **Platform:** LinkedIn, Substack
