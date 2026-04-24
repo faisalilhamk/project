@@ -1,3 +1,5 @@
+Source: https://www.youtube.com/watch?v=kUKkAbzq9zo&t=7s
+
 so this is a list of everything I do I'm
 a Silla preneur I work entirely by myself I do not have any staff I used to run a consultancy and I had eleven
 employees nowadays I am kind of working to never do that again so I'm gonna be
