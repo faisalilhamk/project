@@ -10,7 +10,7 @@
 - **Platform:** LinkedIn, Podcast
 - **Link:** https://linkedin.com/in/valgeisler
 - **Why chosen:** Ex-email strategist at Klaviyo; 10+ years in B2B SaaS email
-- **Content collected:** TBD
+- **Content collected:** 1 LinkedIn post collected
 
 ## 3. Joanna Wiebe
 - **Platform:** YouTube, Blog
