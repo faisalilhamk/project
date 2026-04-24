@@ -52,7 +52,7 @@
 - **Platform:** YouTube, LinkedIn
 - **Link:** https://linkedin.com/in/rosssimmonds
 - **Why chosen:** Foundation Marketing; email as B2B content distribution channel
-- **Content collected:** TBD
+- **Content collected:** 1 Youtube transcript collected
 
 ## 10. Justin Welsh
 - **Platform:** LinkedIn, Newsletter
