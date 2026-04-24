@@ -58,4 +58,4 @@
 - **Platform:** LinkedIn, Newsletter
 - **Link:** https://linkedin.com/in/justinwelsh
 - **Why chosen:** Solopreneur newsletter playbook; highly tactical email growth
-- **Content collected:** TBD
+- **Content collected:** 1 Youtube transcript collected
