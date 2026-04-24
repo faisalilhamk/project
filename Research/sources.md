@@ -16,7 +16,7 @@
 - **Platform:** YouTube, Blog
 - **Link:** https://copyhackers.com
 - **Why chosen:** Founder of Copyhackers; conversion email copy for SaaS
-- **Content collected:** TBD
+- **Content collected:** 1 YouTube transcript collected
 
 ## 4. Steli Efti
 - **Platform:** YouTube
