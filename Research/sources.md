@@ -46,7 +46,7 @@
 - **Platform:** LinkedIn, Podcast
 - **Link:** https://emailmastery.com
 - **Why chosen:** Email strategist exclusively for SaaS brands
-- **Content collected:** TBD
+- **Content collected:** 1 Youtube transcript collected
 
 ## 9. Ross Simmonds
 - **Platform:** YouTube, LinkedIn
