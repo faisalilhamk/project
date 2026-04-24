@@ -34,7 +34,7 @@
 - **Platform:** YouTube, Newsletter
 - **Link:** https://linkedin.com/in/lennyrachitsky
 - **Why chosen:** Lenny's Newsletter covers email growth loops for SaaS products
-- **Content collected:** TBD
+- **Content collected:** 1 Youtube transcript collected
 
 ## 7. Patrick McKenzie (patio11)
 - **Platform:** Blog, Twitter/X
