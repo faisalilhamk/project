@@ -4,7 +4,7 @@
 - **Platform:** YouTube, Blog
 - **Link:** https://brennandunn.com
 - **Why chosen:** Pioneer of email personalization for SaaS; built RightMessage
-- **Content collected:** TBD
+- **Content collected:** 1 YouTube transcript collected
 
 ## 2. Val Geisler
 - **Platform:** LinkedIn, Podcast
