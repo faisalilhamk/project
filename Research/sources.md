@@ -40,7 +40,7 @@
 - **Platform:** Blog, Twitter/X
 - **Link:** https://kalzumeus.com
 - **Why chosen:** Legendary SaaS email thinker; known for onboarding sequences
-- **Content collected:** TBD
+- **Content collected:** 1 Youtube transcript collected
 
 ## 8. Eman Ismail
 - **Platform:** LinkedIn, Podcast
