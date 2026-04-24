@@ -38,5 +38,5 @@ and blog material, to identify repeatable patterns and strategies.
 
 - [x] Folder structure created
 - [x] 10 experts identified and documented in sources.md
-- [ ] Content collection in progress
-- [ ] Final synthesis and insights
+- [x] Content collection in progress
+- [x] Final synthesis and insights
