@@ -28,7 +28,7 @@
 - **Platform:** LinkedIn, Substack
 - **Link:** https://linkedin.com/in/weskao
 - **Why chosen:** Co-founder Maven; writes deeply on email as a growth lever
-- **Content collected:** TBD
+- **Content collected:** 1 LinkedIn post collected
 
 ## 6. Lenny Rachitsky
 - **Platform:** YouTube, Newsletter
